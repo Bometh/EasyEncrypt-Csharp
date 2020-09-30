@@ -1,7 +1,7 @@
 # EasyEncrypt-Csharp
 A simple library to encrypt or decrypt a string
 
-Adding Namesoace
+Adding Namespace
 <pre><code class='language-cs'>
 using Bometh.EasyEncrypt;
 </code></pre>
